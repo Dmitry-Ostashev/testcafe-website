@@ -1,2 +1,7 @@
 User-agent: *
-Disallow: /
+Allow: /
+
+User-agent: *
+Disallow: /*dashboard-alpha
+
+Sitemap: https://testcafe.io/sitemap.xml
