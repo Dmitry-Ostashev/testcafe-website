@@ -4,7 +4,7 @@
         <title>TestCafe</title>
         <link>https://testcafe.io</link>
         <description>Cross-Browser End-to-End Testing Framework</description>
-        <lastBuildDate>Tue, 20 Jun 2023 14:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 07:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>TestCafe feed generator</generator>
         <copyright>Developer Express Inc</copyright>
@@ -18,13 +18,13 @@
             <title><![CDATA[From TestCafe 1.0 to TestCafe 2.0: 11 Most Notable Enhancements]]></title>
             <link>https://testcafe.io/404059/resources/blog/2022-8-31-from-testcafe-10-to-testcafe-20-11-most-notable-enhancements</link>
             <guid>404059</guid>
-            <pubDate>Wed, 31 Aug 2022 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 30 Aug 2022 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The 2022 TestCafe Survey: Let us know what you think!]]></title>
             <link>https://testcafe.io/404008/resources/blog/2022-7-12-2022-testcafe-survey-let-us-know-what-you-think</link>
             <guid>404008</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 11 Jul 2022 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Case study: How Neos CMS Increased Reliability and Confidence with E2E testing and TestCafe]]></title>
@@ -36,25 +36,25 @@
             <title><![CDATA[TestCafe Dashboard (Alpha): Be the First to Explore its Capabilities]]></title>
             <link>https://testcafe.io/403442/resources/blog/2021-10-7-dashboard-alpha-invitation-announce</link>
             <guid>403442</guid>
-            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 06 Oct 2021 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Case study: How Medinas started deploying every day by using TestCafe]]></title>
             <link>https://testcafe.io/403422/resources/blog/2021-9-22-how-medinas-started-deploying-every-day</link>
             <guid>403422</guid>
-            <pubDate>Wed, 22 Sep 2021 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 21 Sep 2021 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nächste Woche: Deutscher Live-Stream zu TestCafe mit Gregor Biswanger]]></title>
             <link>https://testcafe.io/403292/resources/blog/2021-7-14-naechste-woche-deutscher-live-stream</link>
             <guid>403292</guid>
-            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 13 Jul 2021 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Upcoming Roundtable: Modern Web Testing with TestCafe]]></title>
             <link>https://testcafe.io/402904/resources/blog/2021-2-9-modern-web-testing-with-testcafe</link>
             <guid>402904</guid>
-            <pubDate>Tue, 09 Feb 2021 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2021 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Randomize Your End-to-End Tests: How to Generate Input Data for TestCafe]]></title>
@@ -90,55 +90,55 @@
             <title><![CDATA[How TestCafe Can Help You to Deliver Faster]]></title>
             <link>https://testcafe.io/402901/resources/blog/2020-9-3-how-testcafe-can-help-you-to-deliver-faster</link>
             <guid>402901</guid>
-            <pubDate>Thu, 03 Sep 2020 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 02 Sep 2020 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introducing Multi-window Tests (Beta)]]></title>
             <link>https://testcafe.io/402900/resources/blog/2020-8-26-introducing-multi-window-tests-beta</link>
             <guid>402900</guid>
-            <pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2020 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Upcoming Webinar: The Fastest Way to Your Next Test – TestCafe + TestCafe Studio]]></title>
             <link>https://testcafe.io/402899/resources/blog/2020-8-21-the-fastest-way-to-your-next-test</link>
             <guid>402899</guid>
-            <pubDate>Fri, 21 Aug 2020 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 20 Aug 2020 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TestCafe Webinar - Your Questions Answered]]></title>
             <link>https://testcafe.io/402898/resources/blog/2020-8-19-testcafe-webinar-your-questions-answered</link>
             <guid>402898</guid>
-            <pubDate>Wed, 19 Aug 2020 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2020 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introducing the TestCafe Jenkins Plugin]]></title>
             <link>https://testcafe.io/402897/resources/blog/2020-7-29-introducing-the-testcafe-jenkins-plugin</link>
             <guid>402897</guid>
-            <pubDate>Wed, 29 Jul 2020 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 28 Jul 2020 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Upcoming Webinar: 10 Ways to Simplify Your UI Testing]]></title>
             <link>https://testcafe.io/402896/resources/blog/2020-7-14-10-ways-to-simplify-your-ui-testing</link>
             <guid>402896</guid>
-            <pubDate>Tue, 14 Jul 2020 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 13 Jul 2020 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Speed up Debugging in TestCafe: Tips and Tricks]]></title>
             <link>https://testcafe.io/402895/resources/blog/2020-6-30-how-to-speed-up-debugging-in-testcafe-tips-and-tricks</link>
             <guid>402895</guid>
-            <pubDate>Tue, 30 Jun 2020 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 29 Jun 2020 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Debug Tests in TestCafe: Quick Guide]]></title>
             <link>https://testcafe.io/402894/resources/blog/2020-5-25-how-to-debug-tests-in-testcafe-quick-guide</link>
             <guid>402894</guid>
-            <pubDate>Mon, 25 May 2020 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 24 May 2020 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Scroll Web Pages Using TestCafe]]></title>
             <link>https://testcafe.io/402893/resources/blog/2020-4-20-how-to-scroll-web-pages-using-testcafe</link>
             <guid>402893</guid>
-            <pubDate>Mon, 20 Apr 2020 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 19 Apr 2020 20:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
