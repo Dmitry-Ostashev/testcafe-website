@@ -4,10 +4,16 @@
         <title>TestCafe</title>
         <link>https://testcafe.io</link>
         <description>Cross-Browser End-to-End Testing Framework</description>
-        <lastBuildDate>Wed, 21 Jun 2023 07:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 11:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>TestCafe feed generator</generator>
         <copyright>Developer Express Inc</copyright>
+        <item>
+            <title><![CDATA[TestCafe Goes Native]]></title>
+            <link>https://testcafe.io/404431/resources/blog/2023-6-21-testcafe-goes-native</link>
+            <guid>404431</guid>
+            <pubDate>Tue, 20 Jun 2023 20:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Case study: SurveyJS — Test-Driven Development with TestCafe]]></title>
             <link>https://testcafe.io/404146/resources/blog/2022-11-01-surveyjs-case-study</link>
